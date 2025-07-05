@@ -1,4 +1,4 @@
-    # Store 1 – Análisis Tabular de Clientes
+# Store 1 – Análisis Tabular de Clientes
 
 Este es el segundo proyecto de Andreina Moreno en el Bootcamp de Científica de Datos (TripleTen).  
 Aquí se transformó una estructura de listas anidadas en una tabla estructurada lista para análisis y visualización.
